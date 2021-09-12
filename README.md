@@ -3,6 +3,8 @@
 This is an example of using a react component library (typescript) in another application in development (locally).
 Typescript needs to be compiled with tsc in this example.
 
+Reference: https://prateeksurana.me/blog/react-library-with-typescript/#why-typescript
+
 ## Important Files
 - tsconfig.json
   
