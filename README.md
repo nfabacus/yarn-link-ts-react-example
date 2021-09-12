@@ -5,9 +5,11 @@ Typescript needs to be compiled with tsc in this example.
 
 ## Important Files
 - tsconfig.json
+  
   Make sure to set "jsx" with "react-jsx" if you are using react 17 and creating components without declaring "import React from 'react".
   
 - package.json
+  
   Make sure to point to the built folder locations with:
   ```
     "main": "./lib/cjs/index.js",
